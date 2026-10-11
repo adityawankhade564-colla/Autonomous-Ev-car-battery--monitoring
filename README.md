@@ -18,4 +18,4 @@ This project uses Arduino UNO for ultrasonic obstacle detection and vehicle cont
 
 ## Project Prototype
 
-![Autonomous EV Car Prototype](images/photo%202.jpeg)
+![Autonomous EV Car Prototype](images/car-prototype.jpeg)
