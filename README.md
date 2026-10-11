@@ -16,4 +16,5 @@ This project uses Arduino UNO for ultrasonic obstacle detection and vehicle cont
 - Battery pack and voltage divider
 - Servo motor
 
-.
+#Project prototype
+[autonomous Ev car prototype ](images/photo%202.jpeg) 
