@@ -2,13 +2,13 @@ c++
   //ESP32 EV battery monitoring 
 #define BLYNK_TEMPLATE_ID "TMPL3Mx3DaRCl"
 #define BLYNK_TEMPLATE_NAME "battery monitoring"
-#define BLYNK_AUTH_TOKEN "YOUR_NEW_BLYNK_AUTH_TOKEN"
+#define BLYNK_AUTH_TOKEN "YBLYNK_AUTH_TOKEN"
 
 #include <WiFi.h>
 #include <BlynkSimpleEsp32.h>
 
-char ssid[] = "YOUR_WIFI_NAME";
-char pass[] = "YOUR_WIFI_PASSWORD";
+char ssid[] = "WIFI_NAME";
+char pass[] = "PASSWORD";
 
 const int BATTERY_PIN = 34;
 
